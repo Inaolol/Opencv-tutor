@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("Opencv/Bluemosque.jpg", -1)
+img = cv2.imread("Opencv/pic.jpg", -1)
 
 # -1,  cv2.IMREAD_COLOR : Loads a color image, Any transparency of image will be neglected. It is the default flag.
 # 0,  cv2.IMREAD_GRAYSCALE : Loads image in greyscale mode
